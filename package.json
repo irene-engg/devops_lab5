@@ -1,6 +1,6 @@
 {
-  "name": "@irene.engg2011/devopsnpm",
-  "version": "1.0.20",
+  "name": "npmirene-sys",
+  "version": "1.0.21",
   "description": "A tabbed pane component using React.js",
   "author": "irene-engg",
   "license": "MIT",
